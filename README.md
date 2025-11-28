@@ -1,6 +1,6 @@
 # 🔐 Password Strength Checker (Python)
 
-A simple Python tool that analyzes a password and gives **real-time feedback** every time you enter a new password.  
+A Python tool that analyzes a password and gives **real-time feedback** every time you enter a new password.  
 This project checks for:
 
 - Uppercase letters (A–Z)
